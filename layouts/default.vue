@@ -68,6 +68,11 @@ export default {
           title: 'Principal',
           to: '/'
         },
+        // {
+        //   icon: 'event_available',
+        //   title: 'Citas',
+        //   to: '/citas'
+        // },
         {
           icon: 'settings',
           title: 'Configuraciones',
